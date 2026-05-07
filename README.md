@@ -89,10 +89,6 @@ Backend runs on:
 http://localhost:8800
 ```
 
-## Screenshots
-
-(Add screenshots here later)
-
 ## Author
 
 GitHub:
